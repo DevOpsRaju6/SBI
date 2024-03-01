@@ -1,2 +1,5 @@
 otp
 printf("otp")
+logout
+login
+bye
